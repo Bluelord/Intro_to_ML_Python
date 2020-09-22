@@ -15,7 +15,7 @@ To run the code, you need the packages ``numpy``, ``scipy``, ``scikit-learn``, `
 Some of the visualizations of decision trees and neural networks structures also require ``graphviz``. The chapter
 on text processing also requirs ``nltk`` and ``spacy``.
 
-The easiest way to set up an environment is by installing [Anaconda](https://www.continuum.io/downloads), Or you can use cloud computing python environment called [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb).
+The easiest way to set up an environment is by installing [Anaconda](https://www.continuum.io/downloads), Or you can use [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb) notebooks to execute code, Google's cloud servers, meaning you can leverage the power of Google hardware, including GPUs.
 
 ### Installing packages with conda:
 If you already have a Python environment set up, and you are using the ``conda`` package manager, you can get all packages by running

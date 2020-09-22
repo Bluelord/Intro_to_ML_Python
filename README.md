@@ -30,7 +30,7 @@ In google colab all the libraries are preinstalled except mglearn
 
 ## Introduction to Machine Learning with Python
 
-![cover](cover.jpg)
+![](./Images/IntroML_cover.jpg)
 
 This book is for Machine learnig practitioners looking to implement solution to the real-world ML problems, this book doesn't require any previous knowledge of ML, but it is understood that reader of the book has prior knowledge of linear algebra and probabilities though this book doesn't go indeapth analysis of algoritms.
 

@@ -1,5 +1,7 @@
 ## **Supervised Learning**
 
+supervised learning is used to predict a certain outcome from a given inputs, and we have examples of input/output pairs called training dataset. We make accurate predictions for new data. In supervised learning, the training data you feed to the algorithm includes the desired solutions, called labels. There are two major types of supervised machine learning problems, called classification and regression. In classification, the goal is to predict a class label, which is a choice from a predefined list of possibilities. For regression tasks, the goal is to predict a continuous number, or a floating-point number in programming terms (or real number in mathematical terms).
+
 **Generalization, Overfitting, and Underfitting**
 
 In supervised learning, a model will be build on the training data and then be

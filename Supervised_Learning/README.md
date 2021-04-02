@@ -16,6 +16,4 @@ If the training and test sets have enough in common, the model will be accurate 
 
 Above figure shows the trade-off betweem overfitting and underfitting, if our model become too complex, it focused on individual data points in training test and our model is not generalized. the spot where we can get best generalization for our model is somewhere in between and this is the model we want to find while building the model. 
 
-**Relation of Model Complexity to Dataset Size**
-
-If our dataset has large variety of data points, the more complex model can be usded without overfitting, this can be done by collecting more data. However, simply duplicating the same data points or collecting very similar data will not help.
+In this we will learn most popular machine learning algorithms, how they learn data for predictions. We will also how the model complexity plays for different models and for different types of dataset. This will allow us to learn the strengths and weaknesses of each algorithm, and what kind of data they can best be applied to. we will also see how the impoertant parameters and options for perticular algorithm.

@@ -10,7 +10,7 @@ If the training and test sets have enough in common, the model will be accurate 
 *   Building complex model for the amount of information may lead to **Overfitting**, this occurs when you fit a model too closely to the training set and the model that works well on the training set but is not able to generalize to new data.
 *   If your model is too simple then you might not be able to capture all the aspects of our data, and our model will do badly even on the training set, this model is called underfitting.
 
-![](./Intro_to_ML_Python_Notes/Images/Tradeoff_model_complexity_vs_training_test_acc.JPG)
+![](./Tradeoff_model_complexity_vs_training_test_acc.JPG)
 
 Above figure shows the trade-off betweem overfitting and underfitting, if our model become too complex, it focused on individual data points in training test and our model is not generalized. the spot where we can get best generalization for our model is somewhere in between and this is the model we want to find while building the model. 
 

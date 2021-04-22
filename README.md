@@ -61,7 +61,7 @@ git clone https://github.com/amueller/ml-training-intro.git
 
 If you are not familiar with git, you can download the repository as a .zip file by heading over to the GitHub repository (https://github.com/amueller/ml-training-intro) in your browser and click the green “Download” button in the upper right.
 
-![](images/download-repo.png)
+![](Images/download-repo.png)
 
 Please note that I may add and improve the material until shortly before the tutorial session, and we recommend you to update your copy of the materials one day before the tutorials. If you have an GitHub account and forked/cloned the repository via GitHub, you can sync your existing fork with via the following commands:
 
@@ -113,9 +113,9 @@ jupyter notebook check_env.ipynb
 inside this repository. Inside the Notebook, you can run the code cell by
 clicking on the "Run Cells" button as illustrated in the figure below:
 
-![](images/check_env-1.png)
+![](Iimages/check_env-1.png)
 
 
 Finally, if your environment satisfies the requirements for the tutorials, the executed code cell will produce an output message as shown below:
 
-![](images/check_env-2.png)
+![](Images/check_env-2.png)
